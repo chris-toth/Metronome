@@ -1,0 +1,17 @@
+C:\Users\s0498320\C#\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+C:\Users\s0498320\C#\SimpleCalc\bin\Debug\SimpleCalc.exe
+C:\Users\s0498320\C#\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\Users\s0498320\C#\SimpleCalc\obj\Debug\SimpleCalc.Form1.resources
+C:\Users\s0498320\C#\SimpleCalc\obj\Debug\SimpleCalc.Properties.Resources.resources
+C:\Users\s0498320\C#\SimpleCalc\obj\Debug\SimpleCalc.csproj.GenerateResource.Cache
+C:\Users\s0498320\C#\SimpleCalc\obj\Debug\SimpleCalc.exe
+C:\Users\s0498320\C#\SimpleCalc\obj\Debug\SimpleCalc.pdb
+C:\Users\chris\Documents\Programming Practice\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+C:\Users\chris\Documents\Programming Practice\SimpleCalc\bin\Debug\SimpleCalc.exe
+C:\Users\chris\Documents\Programming Practice\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\Users\chris\Documents\Programming Practice\SimpleCalc\obj\Debug\SimpleCalc.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Programming Practice\SimpleCalc\obj\Debug\SimpleCalc.Form1.resources
+C:\Users\chris\Documents\Programming Practice\SimpleCalc\obj\Debug\SimpleCalc.Properties.Resources.resources
+C:\Users\chris\Documents\Programming Practice\SimpleCalc\obj\Debug\SimpleCalc.csproj.GenerateResource.Cache
+C:\Users\chris\Documents\Programming Practice\SimpleCalc\obj\Debug\SimpleCalc.exe
+C:\Users\chris\Documents\Programming Practice\SimpleCalc\obj\Debug\SimpleCalc.pdb
